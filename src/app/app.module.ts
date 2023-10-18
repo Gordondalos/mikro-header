@@ -47,6 +47,7 @@ import { AppRoutingModule } from './app-routing.module';
       multi: true,
     },
   ],
-  bootstrap: [AppComponent],
 })
-export class AppModule {}
+export class AppModule {
+  ngDoBootstrap(): void{}
+}

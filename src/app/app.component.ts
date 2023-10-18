@@ -3,13 +3,7 @@ import { LanguageSelectService } from '@iiko/language-select';
 import { NewsService } from '@iiko/news';
 import { RangeSelectorService } from '@iiko/range-selector';
 import { RestoService } from '@iiko/select-resto';
-import {
-  AppCategory,
-  ConfigInterface,
-  ConfigService,
-  IIKOCommonApiService,
-  UserDTO,
-} from '@iiko/services';
+import { AppCategory, ConfigInterface, ConfigService, IIKOCommonApiService, UserDTO } from '@iiko/services';
 import { environment } from 'src/environments/environment';
 
 @Component({
@@ -35,7 +29,8 @@ export class AppComponent implements OnInit {
     private readonly rangeSelectorService: RangeSelectorService,
     private readonly newsService: NewsService,
     private readonly configService: ConfigService,
-  ) {}
+  ) {
+  }
 
   ngOnInit(): void {
     this.initRangeSelector();
@@ -56,7 +51,7 @@ export class AppComponent implements OnInit {
 
   private initUserPermissions(): void {
     this.apiService.getUserPermissions().subscribe((permissions: string[]) => {
-      this.showAccountSettings = permissions.includes('USER_CABINET_PROMISED_PAYMENT_APPLY')
+      this.showAccountSettings = permissions.includes('USER_CABINET_PROMISED_PAYMENT_APPLY');
       this.cdr.markForCheck();
     });
   }
