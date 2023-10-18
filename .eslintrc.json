@@ -1,0 +1,5 @@
+{
+  "root": true,
+  "extends": "@iiko/eslint-config",
+  "parserOptions": { "project": ["./tsconfig.json"] }
+}

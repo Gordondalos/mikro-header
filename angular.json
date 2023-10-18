@@ -1,0 +1,258 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "version": 1,
+  "newProjectRoot": "projects",
+  "projects": {
+    "micro-header": {
+      "projectType": "application",
+      "i18n": {
+        "sourceLocale": "en",
+        "locales": {
+          "ru-RU": {
+            "translation": "src/locale/messages.ru.xlf",
+            "baseHref": "/micro-header/ru-RU/index.html"
+          },
+          "en-GB": {
+            "translation": "src/locale/messages.en_GB.xlf",
+            "baseHref": "/micro-header/en-GB/index.html"
+          },
+          "en-US": {
+            "translation": "src/locale/messages.en_US.xlf",
+            "baseHref": "/micro-header/en-US/index.html"
+          },
+          "vi-VN": {
+            "translation": "src/locale/messages.vi_VN.xlf",
+            "baseHref": "/micro-header/vi-VN/index.html"
+          },
+          "de-DE": {
+            "translation": "src/locale/messages.de_DE.xlf",
+            "baseHref": "/micro-header/de-DE/index.html"
+          },
+          "it-IT": {
+            "translation": "src/locale/messages.it_IT.xlf",
+            "baseHref": "/micro-header/it-IT/index.html"
+          },
+          "ro-RO": {
+            "translation": "src/locale/messages.ro_RO.xlf",
+            "baseHref": "/micro-header/ro-RO/index.html"
+          },
+          "fr-FR": {
+            "translation": "src/locale/messages.fr_FR.xlf",
+            "baseHref": "/micro-header/fr-FR/index.html"
+          },
+          "cs-CZ": {
+            "translation": "src/locale/messages.cs_CZ.xlf",
+            "baseHref": "/micro-header/cs-CZ/index.html"
+          },
+          "nl-NL": {
+            "translation": "src/locale/messages.nl_NL.xlf",
+            "baseHref": "/micro-header/nl-NL/index.html"
+          },
+          "tr-TR": {
+            "translation": "src/locale/messages.tr_TR.xlf",
+            "baseHref": "/micro-header/tr-TR/index.html"
+          },
+          "az-Latn-AZ": {
+            "translation": "src/locale/messages.az_Latn_AZ.xlf",
+            "baseHref": "/micro-header/az-Latn-AZ/index.html"
+          }
+        }
+      },
+      "schematics": {
+        "@schematics/angular:component": {
+          "style": "scss"
+        },
+        "@schematics/angular:application": {
+          "strict": true
+        }
+      },
+      "root": "",
+      "sourceRoot": "src",
+      "prefix": "resto",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/micro-header",
+            "index": "src/index.html",
+            "main": "src/main.ts",
+            "polyfills": "src/polyfills.ts",
+            "tsConfig": "tsconfig.app.json",
+            "inlineStyleLanguage": "scss",
+            "assets": [
+              "src/favicon.ico",
+              "src/assets"
+            ],
+            "styles": [
+              "src/styles.scss",
+              "node_modules/normalize.css",
+              "node_modules/@iiko/theming/styles/light-theme.scss"
+            ],
+            "stylePreprocessorOptions": {
+              "includePaths": ["node_modules/@iiko/theming/styles"]
+            },
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "500kb",
+                  "maximumError": "3mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "2kb",
+                  "maximumError": "4kb"
+                }
+              ],
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ],
+              "outputHashing": "all"
+            },
+            "ru-RU": {
+              "localize": ["ru-RU"],
+              "i18nMissingTranslation": "warning"
+            },
+            "en-US": {
+              "localize": ["en-US"],
+              "i18nMissingTranslation": "warning"
+            },
+            "en-GB": {
+              "localize": ["en-GB"],
+              "i18nMissingTranslation": "warning"
+            },
+            "de-DE": {
+              "localize": ["de-DE"],
+              "i18nMissingTranslation": "warning"
+            },
+            "ro-RO": {
+              "localize": ["ro-RO"],
+              "i18nMissingTranslation": "warning"
+            },
+            "vi-VN": {
+              "localize": ["vi-VN"],
+              "i18nMissingTranslation": "warning"
+            },
+            "it-IT": {
+              "localize": ["it-IT"],
+              "i18nMissingTranslation": "warning"
+            },
+            "fr-FR": {
+              "localize": ["fr-FR"],
+              "i18nMissingTranslation": "warning"
+            },
+            "cs-CZ": {
+              "localize": ["cs-CZ"],
+              "i18nMissingTranslation": "warning"
+            },
+            "nl-NL": {
+              "localize": ["nl-NL"],
+              "i18nMissingTranslation": "warning"
+            },
+            "az-Latn-AZ": {
+              "localize": ["az-Latn-AZ"],
+              "i18nMissingTranslation": "warning"
+            },
+            "development": {
+              "localize": ["ru-RU"],
+              "i18nMissingTranslation": "warning",
+              "buildOptimizer": false,
+              "optimization": false,
+              "vendorChunk": true,
+              "extractLicenses": false,
+              "sourceMap": true,
+              "namedChunks": true
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "configurations": {
+            "production": {
+              "browserTarget": "micro-header:build:production"
+            },
+            "ru-RU": {
+              "browserTarget": "micro-header:build:ru-RU"
+            },
+            "en-GB": {
+              "browserTarget": "micro-header:build:en-GB"
+            },
+            "de-DE": {
+              "browserTarget": "micro-header:build:de-DE"
+            },
+            "ro-RO": {
+              "browserTarget": "micro-header:build:ro-RO"
+            },
+            "vi-VN": {
+              "browserTarget": "micro-header:build:vi-VN"
+            },
+            "it-IT": {
+              "browserTarget": "micro-header:build:it-IT"
+            },
+            "fr-FR": {
+              "browserTarget": "micro-header:build:fr-FR"
+            },
+            "cs-CZ": {
+              "browserTarget": "micro-header:build:cs-CZ"
+            },
+            "nl-NL": {
+              "browserTarget": "micro-header:build:nl-NL"
+            },
+            "az-Latn-AZ": {
+              "browserTarget": "inventory:build:az-Latn-AZ"
+            },
+            "development": {
+              "browserTarget": "micro-header:build:development"
+            }
+          },
+          "defaultConfiguration": "development"
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "micro-header:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "src/test.ts",
+            "polyfills": "src/polyfills.ts",
+            "tsConfig": "tsconfig.spec.json",
+            "karmaConfig": "karma.conf.js",
+            "inlineStyleLanguage": "scss",
+            "assets": [
+              "src/favicon.ico",
+              "src/assets"
+            ],
+            "styles": [
+              "src/styles.scss"
+            ],
+            "scripts": []
+          }
+        },
+        "lint": {
+          "builder": "@angular-eslint/builder:lint",
+          "options": {
+            "lintFilePatterns": [
+              "src/**/*.ts",
+              "src/**/*.html"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "cli": {
+    "schematicCollections": [
+      "@angular-eslint/schematics"
+    ]
+  }
+}

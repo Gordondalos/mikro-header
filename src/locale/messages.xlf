@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="ngCommonErrorId" datatype="html">
+        <source>Error</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/error-dialog/error-dialog.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonCloseId" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/error-dialog/error-dialog.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonUnknownErrorId" datatype="html">
+        <source>Unknown Error</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/error-dialog/error-dialog.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonTypePasswordId" datatype="html">
+        <source>Type password</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/lock-screen/lock-screen.component.html</context>
+          <context context-type="linenumber">1,3</context>
+        </context-group>
+        <note priority="1" from="description">text on label log in</note>
+      </trans-unit>
+      <trans-unit id="ngCommonLogInId" datatype="html">
+        <source>logIn</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/lock-screen/lock-screen.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+        <note priority="1" from="description">text on button</note>
+      </trans-unit>
+      <trans-unit id="ngCommonHeyId" datatype="html">
+        <source>Hey</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/lock-screen/lock-screen.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonStillThereId" datatype="html">
+        <source>Still there</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/lock-screen/lock-screen.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonSignInId" datatype="html">
+        <source>Sign in</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/lock-screen/lock-screen.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+        <note priority="1" from="description">login form</note>
+      </trans-unit>
+      <trans-unit id="ngCommonFailedToSignInPleaseCheckYourNetworkConnectionAndTryAgainId" datatype="html">
+        <source>Failed to sign in. Please check your network connection and try again.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/lock-screen/lock-screen.component.html</context>
+          <context context-type="linenumber">1,4</context>
+        </context-group>
+        <note priority="1" from="description">sign in failed</note>
+      </trans-unit>
+      <trans-unit id="ngCommonTypeLoginId" datatype="html">
+        <source>Type login</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/lock-screen/lock-screen.component.html</context>
+          <context context-type="linenumber">1,3</context>
+        </context-group>
+        <note priority="1" from="description">text on label log in</note>
+      </trans-unit>
+      <trans-unit id="ngCommonSwitchAccountsId" datatype="html">
+        <source>Switch accounts</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/lock-screen/lock-screen.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonDateRangeId" datatype="html">
+        <source>Date range </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/basic-layout/src/lib/panels/filter-panel/filter-panel.component.html</context>
+          <context context-type="linenumber">1,3</context>
+        </context-group>
+        <note priority="1" from="description">Form field label</note>
+      </trans-unit>
+      <trans-unit id="ngCommonBasicLayoutCloseId" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/basic-layout/src/lib/panels/filter-panel/filter-panel.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonSearchId" datatype="html">
+        <source>Search</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/basic-layout/src/lib/panels/search-panel/search-panel.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/basic-layout/src/lib/panels/search-panel/search-panel.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/select-resto/select-resto.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">Lable for search field</note>
+      </trans-unit>
+      <trans-unit id="ngCommonLogoutId" datatype="html">
+        <source>Logout</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/header/src/lib/header-auth/header-auth.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">Account logout</note>
+      </trans-unit>
+      <trans-unit id="@ngCommonNotificationsId" datatype="html">
+        <source>Notifications</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/header/src/lib/header-auth/header-auth.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+        <note priority="1" from="description">User notifications</note>
+      </trans-unit>
+      <trans-unit id="ngCommonAccountSettingsId" datatype="html">
+        <source>Account settings</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/header/src/lib/header-auth/header-auth.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonNoRestaurantSelectedId" datatype="html">
+        <source>No restaurant selected</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/header/src/lib/header.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/select-resto/select-resto.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonFiltersId" datatype="html">
+        <source>Filters</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/header/src/lib/header.component.ts</context>
+          <context context-type="linenumber">79,80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonRestaurantId" datatype="html">
+        <source>Restaurant</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/header/src/lib/header.component.ts</context>
+          <context context-type="linenumber">88,90</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/select-resto/select-resto.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonDateId" datatype="html">
+        <source>Date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/header/src/lib/header.component.ts</context>
+          <context context-type="linenumber">96,97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonLanguageSelectionId" datatype="html">
+        <source>Language selection</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/language-select/src/lib/language-select.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">Language selection</note>
+      </trans-unit>
+      <trans-unit id="ngCommonApplicationsId" datatype="html">
+        <source>Applications</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/menu/src/lib/main-navigation/main-navigation.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">All applications</note>
+      </trans-unit>
+      <trans-unit id="ngCommonNewsId" datatype="html">
+        <source>News</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/news/src/lib/news-panel/news-panel.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+        <note priority="1" from="description">iiko News</note>
+      </trans-unit>
+      <trans-unit id="ngCommonMoreDetailsId" datatype="html">
+        <source>More details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/news/src/lib/news.component.html</context>
+          <context context-type="linenumber">1,3</context>
+        </context-group>
+        <note priority="1" from="description">Show content details</note>
+      </trans-unit>
+      <trans-unit id="ngCommonNoNewsId" datatype="html">
+        <source>No news</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/news/src/lib/news.component.html</context>
+          <context context-type="linenumber">1,3</context>
+        </context-group>
+        <note priority="1" from="description">Not found, short message</note>
+      </trans-unit>
+      <trans-unit id="ngCommonYouHaveNoNewsAtThisMomentId" datatype="html">
+        <source>You have no news at this moment</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/news/src/lib/news.component.html</context>
+          <context context-type="linenumber">1,3</context>
+        </context-group>
+        <note priority="1" from="description">Not found, long message</note>
+      </trans-unit>
+      <trans-unit id="ngCommonMarkAllAsReadId" datatype="html">
+        <source>Mark all as read</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/news/src/lib/news.component.html</context>
+          <context context-type="linenumber">1,3</context>
+        </context-group>
+        <note priority="1" from="description">Mark all items as read</note>
+      </trans-unit>
+      <trans-unit id="ngCommonDayLetterId" datatype="html">
+        <source>D</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/range-selector/src/lib/components/period-selector/period-selector.component.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonWeekLetterId" datatype="html">
+        <source>W</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/range-selector/src/lib/components/period-selector/period-selector.component.ts</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonMonthLetterId" datatype="html">
+        <source>M</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/range-selector/src/lib/components/period-selector/period-selector.component.ts</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonYearLetterId" datatype="html">
+        <source>Y</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/range-selector/src/lib/components/period-selector/period-selector.component.ts</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonPeriodLetterId" datatype="html">
+        <source>P</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/range-selector/src/lib/components/period-selector/period-selector.component.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonCentralOfficeId" datatype="html">
+        <source>Central office</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/constants.ts</context>
+          <context context-type="linenumber">10,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonNoRestaurantsFoundMatchingYourSearchId" datatype="html">
+        <source>No restaurants found matching your search</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/select-resto/select-resto.component.html</context>
+          <context context-type="linenumber">1,3</context>
+        </context-group>
+        <note priority="1" from="description">No restaurants found</note>
+      </trans-unit>
+      <trans-unit id="ngCommonAllId" datatype="html">
+        <source>All</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/select-resto/select-resto.component.ts</context>
+          <context context-type="linenumber">195,196</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/select-resto/select-resto.component.ts</context>
+          <context context-type="linenumber">252</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonNoStoresSelectedId" datatype="html">
+        <source>No stores selected</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/services/tree-resto.service.ts</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonAllStoresId" datatype="html">
+        <source>All stores</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/services/tree-resto.service.ts</context>
+          <context context-type="linenumber">87,90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngCommonOfId" datatype="html">
+        <source>of</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/services/tree-resto.service.ts</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

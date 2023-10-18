@@ -1,0 +1,7 @@
+@use "colors";
+
+.mat-option.select-header {
+  height: 58px;
+
+  border-bottom: 1px solid colors.$layout-dividers;
+}

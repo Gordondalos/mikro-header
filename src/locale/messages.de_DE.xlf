@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="Error" datatype="html">
+        <source>Error</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/error-dialog/error-dialog.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Close" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/error-dialog/error-dialog.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/basic-layout/src/lib/panels/filter-panel/filter-panel.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="unknownError" datatype="html">
+        <source>Unknown Error</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/error-dialog/error-dialog.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1122844705708666955" datatype="html">
+        <source>Type password</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/lock-screen/lock-screen.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+        <note priority="1" from="description">text on label log in</note>
+      </trans-unit>
+      <trans-unit id="7751217611252119927" datatype="html">
+        <source>logIn</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/lock-screen/lock-screen.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+        <note priority="1" from="description">text on button</note>
+      </trans-unit>
+      <trans-unit id="Hey" datatype="html">
+        <source>Hey</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/lock-screen/lock-screen.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="stillThere" datatype="html">
+        <source>Still there</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/lock-screen/lock-screen.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5207635742003539443" datatype="html">
+        <source>Sign in</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/lock-screen/lock-screen.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+        <note priority="1" from="description">login form</note>
+      </trans-unit>
+      <trans-unit id="4670415553179096807" datatype="html">
+        <source>Failed to sign in. Please check your network connection and try again.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/lock-screen/lock-screen.component.html</context>
+          <context context-type="linenumber">1,3</context>
+        </context-group>
+        <note priority="1" from="description">sign in failed</note>
+      </trans-unit>
+      <trans-unit id="3978087545140778238" datatype="html">
+        <source>Type login</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/lock-screen/lock-screen.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+        <note priority="1" from="description">text on label log in</note>
+      </trans-unit>
+      <trans-unit id="SwitchAccounts" datatype="html">
+        <source>Switch accounts</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/auth/src/lib/lock-screen/lock-screen.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6234985323744540610" datatype="html">
+        <source>Date range</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/basic-layout/src/lib/panels/filter-panel/filter-panel.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">Form field label</note>
+      </trans-unit>
+      <trans-unit id="4580988005648117665" datatype="html">
+        <source>Search</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/basic-layout/src/lib/panels/search-panel/search-panel.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/basic-layout/src/lib/panels/search-panel/search-panel.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/search/src/lib/search-field/search-field.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/select-resto/select-resto.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products-header/header-search/header-search.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">Lable for search field</note>
+      </trans-unit>
+      <trans-unit id="3797778920049399855" datatype="html">
+        <source>Logout</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/header/src/lib/header-auth/header-auth.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">Account logout</note>
+      </trans-unit>
+      <trans-unit id="5851560788527570644" datatype="html">
+        <source>Notifications</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/header/src/lib/header-auth/header-auth.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">User notifications</note>
+      </trans-unit>
+      <trans-unit id="AccountSettings" datatype="html">
+        <source>Account settings</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/header/src/lib/header-auth/header-auth.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="NoRestaurantSelected" datatype="html">
+        <source>No restaurant selected</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/header/src/lib/header.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/select-resto/select-resto.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4163272119298020373" datatype="html">
+        <source>Filters</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/header/src/lib/header.component.ts</context>
+          <context context-type="linenumber">62,63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2407784838682038117" datatype="html">
+        <source>Restaurant</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/header/src/lib/header.component.ts</context>
+          <context context-type="linenumber">71,72</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/select-resto/select-resto.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3973931101896534797" datatype="html">
+        <source>Date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/header/src/lib/header.component.ts</context>
+          <context context-type="linenumber">79,80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6892051595939132690" datatype="html">
+        <source>Language selection</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/language-select/src/lib/language-select.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">Language selection</note>
+      </trans-unit>
+      <trans-unit id="6658000829978978023" datatype="html">
+        <source>Applications</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/menu/src/lib/main-navigation/main-navigation.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">All applications</note>
+      </trans-unit>
+      <trans-unit id="841934696444961534" datatype="html">
+        <source>News</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/news/src/lib/news-panel/news-panel.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+        <note priority="1" from="description">iiko News</note>
+      </trans-unit>
+      <trans-unit id="6316402243348763220" datatype="html">
+        <source>More details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/news/src/lib/news.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">Show content details</note>
+      </trans-unit>
+      <trans-unit id="3824357119662702066" datatype="html">
+        <source>No news</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/news/src/lib/news.component.html</context>
+          <context context-type="linenumber">1,3</context>
+        </context-group>
+        <note priority="1" from="description">Not found, short message</note>
+      </trans-unit>
+      <trans-unit id="4862824203657777034" datatype="html">
+        <source>You have no news at this moment</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/news/src/lib/news.component.html</context>
+          <context context-type="linenumber">1,3</context>
+        </context-group>
+        <note priority="1" from="description">Not found, long message</note>
+      </trans-unit>
+      <trans-unit id="2333314224059826550" datatype="html">
+        <source>Mark all as read</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/news/src/lib/news.component.html</context>
+          <context context-type="linenumber">1,3</context>
+        </context-group>
+        <note priority="1" from="description">Mark all items as read</note>
+      </trans-unit>
+      <trans-unit id="2077853183867905073" datatype="html">
+        <source>D</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/range-selector/src/lib/components/period-selector/period-selector.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6896217175159042594" datatype="html">
+        <source>W</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/range-selector/src/lib/components/period-selector/period-selector.component.ts</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3101405940446847368" datatype="html">
+        <source>M</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/range-selector/src/lib/components/period-selector/period-selector.component.ts</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9076533917901768566" datatype="html">
+        <source>Y</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/range-selector/src/lib/components/period-selector/period-selector.component.ts</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3650700524513504669" datatype="html">
+        <source>P</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/range-selector/src/lib/components/period-selector/period-selector.component.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8362976264672477353" datatype="html">
+        <source>No restaurants found matching your search</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/select-resto/select-resto.component.html</context>
+          <context context-type="linenumber">1,3</context>
+        </context-group>
+        <note priority="1" from="description">No restaurants found</note>
+      </trans-unit>
+      <trans-unit id="1616102757855967475" datatype="html">
+        <source>All</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/select-resto/select-resto.component.ts</context>
+          <context context-type="linenumber">201</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/select-resto/select-resto.component.ts</context>
+          <context context-type="linenumber">268</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="NoStoresSelected" datatype="html">
+        <source>No stores selected</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/tree-resto.service.ts</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="AllStores" datatype="html">
+        <source>All stores</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/tree-resto.service.ts</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Of" datatype="html">
+        <source>of</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/select-resto/src/lib/tree-resto.service.ts</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2657043015926552641" datatype="html">
+        <source>Unknown error</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/count-stock.component.ts</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.ts</context>
+          <context context-type="linenumber">302</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.ts</context>
+          <context context-type="linenumber">350</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zone-list/zone-list.component.ts</context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zone-list/zone-list.component.ts</context>
+          <context context-type="linenumber">137</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zones.component.ts</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zones.component.ts</context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zones.component.ts</context>
+          <context context-type="linenumber">205</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utils/handle-error.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3848605480008272419" datatype="html">
+        <source>Amount:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/product-item/product-item.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2591890522247589832" datatype="html">
+        <source> Out of stock </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/product-item/product-item.component.html</context>
+          <context context-type="linenumber">46,47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8720977247725652816" datatype="html">
+        <source>Ok</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/product-item/product-item.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.ts</context>
+          <context context-type="linenumber">163</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.ts</context>
+          <context context-type="linenumber">286</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.ts</context>
+          <context context-type="linenumber">363</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-done/count-stock-done.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zone-list/zone-list.component.ts</context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zones.component.ts</context>
+          <context context-type="linenumber">132</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zones.component.ts</context>
+          <context context-type="linenumber">172</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-item-info-dialog/inventory-item-info-dialog.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.ts</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.ts</context>
+          <context context-type="linenumber">200</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="814445903931400862" datatype="html">
+        <source> Complete area count </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products-header/products-header.component.html</context>
+          <context context-type="linenumber">46,47</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.html</context>
+          <context context-type="linenumber">67,68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8156439496667840380" datatype="html">
+        <source> Done <x id="INTERPOLATION" equiv-text="{{ filledCount }}"/> out of <x id="INTERPOLATION_1" equiv-text="{{ (zone?.items ?? []).length }}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products-header/products-header.component.html</context>
+          <context context-type="linenumber">52,53</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.html</context>
+          <context context-type="linenumber">72,73</context>
+        </context-group>
+        <note priority="1" from="description">Done 2 out of 6</note>
+      </trans-unit>
+      <trans-unit id="6707361102856436710" datatype="html">
+        <source>Products</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <note priority="1" from="description">Products</note>
+      </trans-unit>
+      <trans-unit id="504466448258387113" datatype="html">
+        <source> Show unfilled </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.html</context>
+          <context context-type="linenumber">20,21</context>
+        </context-group>
+        <note priority="1" from="description">Show unfilled</note>
+      </trans-unit>
+      <trans-unit id="3974050187571338029" datatype="html">
+        <source> With discrepancies </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.html</context>
+          <context context-type="linenumber">31,32</context>
+        </context-group>
+        <note priority="1" from="description">Show with discrepancies</note>
+      </trans-unit>
+      <trans-unit id="5109837199622814247" datatype="html">
+        <source>Done <x id="INTERPOLATION" equiv-text="{{ filledZonesCount }}"/> out of <x id="INTERPOLATION_1" equiv-text="{{ dataSource.data.length }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.html</context>
+          <context context-type="linenumber">38,39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zone-list-item/zone-list-item.component.html</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5665826781686014310" datatype="html">
+        <source>Cant get area data, try again later</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.ts</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1617131856531412994" datatype="html">
+        <source>Unkown error</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.ts</context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5871928281314022227" datatype="html">
+        <source>Attention</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.ts</context>
+          <context context-type="linenumber">283</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zones.component.ts</context>
+          <context context-type="linenumber">130</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5143908015658342543" datatype="html">
+        <source>To exit, count all the items in the area and tap &apos;Complete&apos;</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.ts</context>
+          <context context-type="linenumber">284</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="213163084385986200" datatype="html">
+        <source>Internet connection lost</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.ts</context>
+          <context context-type="linenumber">345</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zone-list/zone-list.component.ts</context>
+          <context context-type="linenumber">132</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zones.component.ts</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zones.component.ts</context>
+          <context context-type="linenumber">151</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7821575455341281487" datatype="html">
+        <source>You have been removed from the “<x id="PH" equiv-text="zoneName"/>” zone. Reopen the storage area if you want to continue inventory.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/products/products.component.ts</context>
+          <context context-type="linenumber">362</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6478950384928848705" datatype="html">
+        <source>Can&apos;t get inventory data, check internet connection and try again</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/services/count-stock.service.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7176333202924970218" datatype="html">
+        <source>d.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-common-header/count-stock-common-header.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-common-header/count-stock-common-header.component.html</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+        <note priority="1" from="description">days: d.</note>
+      </trans-unit>
+      <trans-unit id="6330420443985462497" datatype="html">
+        <source>h.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-common-header/count-stock-common-header.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-common-header/count-stock-common-header.component.html</context>
+          <context context-type="linenumber">116</context>
+        </context-group>
+        <note priority="1" from="description">hours: h.</note>
+      </trans-unit>
+      <trans-unit id="1506862527178563007" datatype="html">
+        <source>m.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-common-header/count-stock-common-header.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-common-header/count-stock-common-header.component.html</context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+        <note priority="1" from="description">minutes: m.</note>
+      </trans-unit>
+      <trans-unit id="8444954162549733563" datatype="html">
+        <source>Need complete all areas</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-common-header/count-stock-common-header.component.html</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zone-list/zone-list.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">Need complete all areas</note>
+      </trans-unit>
+      <trans-unit id="935187492052582731" datatype="html">
+        <source>Submit</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-common-header/count-stock-common-header.component.html</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zone-list/zone-list.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Resubmit" datatype="html">
+        <source>Resubmit form</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-common-header/count-stock-common-header.component.html</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zone-list/zone-list.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <note priority="1" from="description">Resubmit form</note>
+      </trans-unit>
+      <trans-unit id="9136752928013288532" datatype="html">
+        <source>Storage:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-common-header/count-stock-common-header.component.html</context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+        <note priority="1" from="description">Storage:</note>
+      </trans-unit>
+      <trans-unit id="6899410641137821757" datatype="html">
+        <source>Date:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-common-header/count-stock-common-header.component.html</context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+        <note priority="1" from="description">Date:</note>
+      </trans-unit>
+      <trans-unit id="4250742989427653021" datatype="html">
+        <source>There are no products in the inventory and it was carried out automatically</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-done-unchanged/count-stock-done-unchanged.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7805959426591721888" datatype="html">
+        <source>Thank you! The inventory count is complete!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-done/count-stock-done.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2023119976186708001" datatype="html">
+        <source>Surplus:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-done/count-stock-done.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="237788779236049128" datatype="html">
+        <source>Shortage:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-done/count-stock-done.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="inventoryExpired" datatype="html">
+        <source>Inventory expired</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-missed/count-stock-missed.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-missed/count-stock-missed.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <note priority="1" from="description">Inventory expired</note>
+      </trans-unit>
+      <trans-unit id="884590171746828585" datatype="html">
+        <source>Inventory <x id="INTERPOLATION" equiv-text="{{ inventoryService.inventoryId }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-missed/count-stock-missed.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-start/count-stock-start.component.html</context>
+          <context context-type="linenumber">33,34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8547153724791757236" datatype="html">
+        <source>Overdue</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-missed/count-stock-missed.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <note priority="1" from="description">Inventory status: overdue</note>
+      </trans-unit>
+      <trans-unit id="5162686434580248853" datatype="html">
+        <source>Start</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-missed/count-stock-missed.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zone-list-item/zone-list-item.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="808045007899851641" datatype="html">
+        <source>Press button &apos;Start&apos; to start the inventory count.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-start/count-stock-start.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-start/count-stock-start.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <note priority="1" from="description">Press button &apos;Start&apos; to start the inventory count.</note>
+      </trans-unit>
+      <trans-unit id="5602213452116915037" datatype="html">
+        <source>There is only days left: <x id="INTERPOLATION" equiv-text="{{ inventoryService.timeLeftDay }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-start/count-stock-start.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-start/count-stock-start.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="981912208684198622" datatype="html">
+        <source>There is only hours left: <x id="INTERPOLATION" equiv-text="{{ inventoryService.timeLeftHours }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-start/count-stock-start.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-start/count-stock-start.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4059457362256051555" datatype="html">
+        <source>There is only minutes left: <x id="INTERPOLATION" equiv-text="{{ inventoryService.timeLeftMinutes }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-start/count-stock-start.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-start/count-stock-start.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5107530057766197526" datatype="html">
+        <source> Start </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-start/count-stock-start.component.html</context>
+          <context context-type="linenumber">27,28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-start/count-stock-start.component.html</context>
+          <context context-type="linenumber">64,65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2877617467396253757" datatype="html">
+        <source>Complete before: <x id="INTERPOLATION" equiv-text="{{ getExpireDate() | date: &apos;medium&apos; }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-start/count-stock-start.component.html</context>
+          <context context-type="linenumber">34,35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5280218112746407598" datatype="html">
+        <source>New</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/count-stock-start/count-stock-start.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-desktop-table/inventory-desktop-table.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-mobile-table/inventory-mobile-table-item/inventory-mobile-table-item.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6418793856759259321" datatype="html">
+        <source>Discrepancies <x id="INTERPOLATION" equiv-text="{{ zone.errorItemsCount }}"/> out of <x id="INTERPOLATION_1" equiv-text="{{ zone.itemsCount }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zone-list-item/zone-list-item.component.html</context>
+          <context context-type="linenumber">13,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6962699013778688473" datatype="html">
+        <source>Continue</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zone-list-item/zone-list-item.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <note priority="1" from="description">Continue zone inventory</note>
+      </trans-unit>
+      <trans-unit id="7841430672042223267" datatype="html">
+        <source>Correct</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zone-list-item/zone-list-item.component.ts</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+        <note priority="1" from="description">Correct zone inventory</note>
+      </trans-unit>
+      <trans-unit id="423600403905491711" datatype="html">
+        <source>Inventory areas</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zone-list/zone-list.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">Inventory areas</note>
+      </trans-unit>
+      <trans-unit id="6998541290982927512" datatype="html">
+        <source>Confirm change</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zone-list/zone-list.component.ts</context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1182514029565241896" datatype="html">
+        <source>Are you sure you want to remove the employee from the area: <x id="PH" equiv-text="zoneName"/>?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zone-list/zone-list.component.ts</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2159130950882492111" datatype="html">
+        <source>Cancel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zone-list/zone-list.component.ts</context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zones.component.ts</context>
+          <context context-type="linenumber">173</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.ts</context>
+          <context context-type="linenumber">130</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1802644431327311910" datatype="html">
+        <source>Check zone discrepancy</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zones.component.ts</context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4221538951748583759" datatype="html">
+        <source>Attention!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zones.component.ts</context>
+          <context context-type="linenumber">170</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.ts</context>
+          <context context-type="linenumber">127</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8802624669119636122" datatype="html">
+        <source>Once saved, the count cannot be changed.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/count-stock/zones/zones.component.ts</context>
+          <context context-type="linenumber">171</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4173239460987633753" datatype="html">
+        <source>Storage: <x id="INTERPOLATION" equiv-text="{{ inventory.storageData.name }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-detail.component.html</context>
+          <context context-type="linenumber">18,19</context>
+        </context-group>
+        <note priority="1" from="description">storage name</note>
+      </trans-unit>
+      <trans-unit id="6531898240125800824" datatype="html">
+        <source>Date: <x id="INTERPOLATION" equiv-text="{{ createDate | date: &apos;shortDate&apos; }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-detail.component.html</context>
+          <context context-type="linenumber">22,23</context>
+        </context-group>
+        <note priority="1" from="description">inventory date</note>
+      </trans-unit>
+      <trans-unit id="NoProductsToInventory" datatype="html">
+        <source> There are no products in the inventory and it was carried out automatically </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-detail.component.html</context>
+          <context context-type="linenumber">29,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="534238259585388193" datatype="html">
+        <source>Packing unit</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-item-info-dialog/horizontal-table/horizontal-table.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <note priority="1" from="description">product units in table</note>
+      </trans-unit>
+      <trans-unit id="7349530031233006058" datatype="html">
+        <source>Total:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-item-info-dialog/horizontal-table/horizontal-table.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-item-info-dialog/vertical-table/vertical-table.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <note priority="1" from="description">Total products count</note>
+      </trans-unit>
+      <trans-unit id="3448462145758383019" datatype="html">
+        <source>Total</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-item-info-dialog/horizontal-table/horizontal-table.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-item-info-dialog/vertical-table/vertical-table.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <note priority="1" from="description">Total products count</note>
+      </trans-unit>
+      <trans-unit id="7866915577490813674" datatype="html">
+        <source>Area name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-item-info-dialog/vertical-table/vertical-table.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <note priority="1" from="description">Area name</note>
+      </trans-unit>
+      <trans-unit id="productName" datatype="html">
+        <source>Product name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-items-adaptive-list/inventory-items-desktop-table/inventory-items-desktop-table.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <note priority="1" from="description">Product name</note>
+      </trans-unit>
+      <trans-unit id="expectedCount" datatype="html">
+        <source> Expected count </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-items-adaptive-list/inventory-items-desktop-table/inventory-items-desktop-table.component.html</context>
+          <context context-type="linenumber">20,22</context>
+        </context-group>
+        <note priority="1" from="description">Expected count</note>
+      </trans-unit>
+      <trans-unit id="actualCount" datatype="html">
+        <source> Actual count </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-items-adaptive-list/inventory-items-desktop-table/inventory-items-desktop-table.component.html</context>
+          <context context-type="linenumber">39,41</context>
+        </context-group>
+        <note priority="1" from="description">Actual count</note>
+      </trans-unit>
+      <trans-unit id="difference" datatype="html">
+        <source> Difference </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-items-adaptive-list/inventory-items-desktop-table/inventory-items-desktop-table.component.html</context>
+          <context context-type="linenumber">58,60</context>
+        </context-group>
+        <note priority="1" from="description">Difference</note>
+      </trans-unit>
+      <trans-unit id="NoDataToDisplay" datatype="html">
+        <source> No data to display
+</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-items-adaptive-list/inventory-items-desktop-table/inventory-items-desktop-table.component.html</context>
+          <context context-type="linenumber">82,84</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-desktop-table/inventory-desktop-table.component.html</context>
+          <context context-type="linenumber">79,80</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-mobile-table/inventory-mobile-table.component.html</context>
+          <context context-type="linenumber">9,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2071760313291666721" datatype="html">
+        <source>Expected:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-items-adaptive-list/inventory-items-mobile-list/inventory-items-mobile-list-item/inventory-items-mobile-list-item.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <note priority="1" from="description">Expected:</note>
+      </trans-unit>
+      <trans-unit id="3406165283802003697" datatype="html">
+        <source>Actual:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-items-adaptive-list/inventory-items-mobile-list/inventory-items-mobile-list-item/inventory-items-mobile-list-item.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">Actual:</note>
+      </trans-unit>
+      <trans-unit id="6611956295286768046" datatype="html">
+        <source>Difference:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-detail/inventory-items-adaptive-list/inventory-items-mobile-list/inventory-items-mobile-list-item/inventory-items-mobile-list-item.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <note priority="1" from="description">Difference:</note>
+      </trans-unit>
+      <trans-unit id="6370642728789544052" datatype="html">
+        <source>Number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-desktop-table/inventory-desktop-table.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <note priority="1" from="description">Inventory number</note>
+      </trans-unit>
+      <trans-unit id="4207916966377787111" datatype="html">
+        <source>Created</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-desktop-table/inventory-desktop-table.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">Inventory create date</note>
+      </trans-unit>
+      <trans-unit id="5078601311229887700" datatype="html">
+        <source>Expire date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-desktop-table/inventory-desktop-table.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <note priority="1" from="description">Inventory expire date</note>
+      </trans-unit>
+      <trans-unit id="57403663622654391" datatype="html">
+        <source>Storage</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-desktop-table/inventory-desktop-table.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <note priority="1" from="description">Inventory storage</note>
+      </trans-unit>
+      <trans-unit id="8650499415827640724" datatype="html">
+        <source>Type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-desktop-table/inventory-desktop-table.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <note priority="1" from="description">Inventory type</note>
+      </trans-unit>
+      <trans-unit id="3419681791450150574" datatype="html">
+        <source>Progress</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-desktop-table/inventory-desktop-table.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <note priority="1" from="description">Inventory progress</note>
+      </trans-unit>
+      <trans-unit id="5295746616425056408" datatype="html">
+        <source>In Processing: <x id="INTERPOLATION" equiv-text="{{item.progress}}"/>%</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-desktop-table/inventory-desktop-table.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-mobile-table/inventory-mobile-table-item/inventory-mobile-table-item.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5611592591303869712" datatype="html">
+        <source>Status</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-desktop-table/inventory-desktop-table.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+        <note priority="1" from="description">Inventory status</note>
+      </trans-unit>
+      <trans-unit id="recreate" datatype="html">
+        <source> Recreate </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-desktop-table/inventory-desktop-table.component.html</context>
+          <context context-type="linenumber">61,62</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-mobile-table/inventory-mobile-table-item/inventory-mobile-table-item.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">recreate inventory</note>
+      </trans-unit>
+      <trans-unit id="prolong" datatype="html">
+        <source> Prolong </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-desktop-table/inventory-desktop-table.component.html</context>
+          <context context-type="linenumber">69,70</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-adaptive-list/inventory-mobile-table/inventory-mobile-table-item/inventory-mobile-table-item.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <note priority="1" from="description">prolong inventory</note>
+      </trans-unit>
+      <trans-unit id="3968281058565161441" datatype="html">
+        <source>No config available for creating an inventory</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-create-button/inventory-create-button.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <note priority="1" from="description">No config available for creating an inventory</note>
+      </trans-unit>
+      <trans-unit id="5674286808255988565" datatype="html">
+        <source>Create</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-create-button/inventory-create-button.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5097429261579311041" datatype="html">
+        <source>Inventory count</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="AccessDenied" datatype="html">
+        <source>Access denied</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <note priority="1" from="description">Access denied</note>
+      </trans-unit>
+      <trans-unit id="8039156655559400110" datatype="html">
+        <source>You dont have permissions for this page</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8204176479746810612" datatype="html">
+        <source>Active</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <note priority="1" from="description">Active inventory list</note>
+      </trans-unit>
+      <trans-unit id="693252945456296482" datatype="html">
+        <source>No inventory config exists</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <note priority="1" from="description">No inventory config exists</note>
+      </trans-unit>
+      <trans-unit id="4944999727023923727" datatype="html">
+        <source>You can setup inventory create in</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2561675928038931764" datatype="html">
+        <source>&quot;System Settings &amp; Maintenance&quot;</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+        <note priority="1" from="description">name of settings page</note>
+      </trans-unit>
+      <trans-unit id="NoPermissionVariant" datatype="html">
+        <source>If you don&apos;t have permissions for it, contact with system administrator</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.html</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.html</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8288635241755198634" datatype="html">
+        <source>no active inventory found</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.html</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+        <note priority="1" from="description">No active inventory found</note>
+      </trans-unit>
+      <trans-unit id="8625601488889847512" datatype="html">
+        <source>Check settings for inventory create on</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.html</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="overdueTab" datatype="html">
+        <source>Overdue</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.html</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+        <note priority="1" from="description">Overdue inventory list</note>
+      </trans-unit>
+      <trans-unit id="1161299114153631702" datatype="html">
+        <source>Completed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.html</context>
+          <context context-type="linenumber">92</context>
+        </context-group>
+        <note priority="1" from="description">Completed inventory list</note>
+      </trans-unit>
+      <trans-unit id="2194236435283063304" datatype="html">
+        <source>Current inventory count task will be removed and created again. Are you sure you want to recreate the inventory count?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.ts</context>
+          <context context-type="linenumber">128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5701536048125326046" datatype="html">
+        <source>Prolong inventory</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.ts</context>
+          <context context-type="linenumber">198</context>
+        </context-group>
+        <note priority="1" from="description">confirm window header</note>
+      </trans-unit>
+      <trans-unit id="5624333704698066068" datatype="html">
+        <source>Inventory <x id="PH" equiv-text="inventoryNumber"/> has been prolonged and is in the ACTIVE tab</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.ts</context>
+          <context context-type="linenumber">199</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7966682458538128732" datatype="html">
+        <source>Go to inventory <x id="PH" equiv-text="inventoryNumber"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/inventory/inventory-list/inventory-list.component.ts</context>
+          <context context-type="linenumber">201</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6015043953104505751" datatype="html">
+        <source>Сheck the correctness of the entered data</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/components/virtual-keyboard/virtual-keyboard.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5695415716487602348" datatype="html">
+        <source>apply</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/components/virtual-keyboard/virtual-keyboard.component.ts</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Done" datatype="html">
+        <source>Done</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/pipes/localize-status/localize-status.pipe.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <note priority="1" from="description">Inventory status &apos;Done&apos;</note>
+      </trans-unit>
+      <trans-unit id="Missed" datatype="html">
+        <source>Missed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/pipes/localize-status/localize-status.pipe.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <note priority="1" from="description">Inventory status &apos;Missed&apos;</note>
+      </trans-unit>
+      <trans-unit id="Validating" datatype="html">
+        <source>Validating</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/pipes/localize-status/localize-status.pipe.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">Inventory status &apos;Validating&apos;</note>
+      </trans-unit>
+      <trans-unit id="NOT_ASSIGNED" datatype="html">
+        <source>not assigned</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/pipes/not-assigned-translate/not-assigned-translate.pipe.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
